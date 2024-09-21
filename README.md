@@ -1,3 +1,5 @@
+## ⚠️ IMPORTANTE ⚠️: Este proyecto está descontinuado y no saldrá de la beta, para la versión actualizada accede <a href="https://github.com/Sauleteh/valorant-music-controller-gui">aquí</a>.
+
 # Controlador de música automático para Valorant con Opera GX y YouTube
 ¿No te ha ocurrido que cuando juegas al Valorant te gustaría estar escuchando música pero que cuando comience la ronda esta música se pause automáticamente para que no interrumpa tu concentración en el juego? Este programa apunta a hacer eso mismo. El programa, dependiendo de lo que ocurra en el juego, bajará/subirá el volumen y/o pausará/reanudará el video musical que estés escuchando. El cambio de volumen se hace de forma progresiva para que no suene muy brusco este cambio.
 
